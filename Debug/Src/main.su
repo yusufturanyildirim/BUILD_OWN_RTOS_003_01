@@ -1,0 +1,7 @@
+main.c:11:5:blue_led_main	8	static
+main.c:23:5:red_led_main	8	static
+main.c:33:5:main	16	static
+main.c:60:6:blue_led_on	8	static
+main.c:66:6:blue_led_off	8	static
+main.c:72:6:red_led_on	8	static
+main.c:78:6:red_led_off	8	static
