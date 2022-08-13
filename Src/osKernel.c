@@ -1,7 +1,7 @@
 #include "osKernel.h"
 
 #define NUMBER_OF_THREADS	3
-#define STACK_SIZE			100
+#define STACK_SIZE		100
 
 
 /* Create TCB */
